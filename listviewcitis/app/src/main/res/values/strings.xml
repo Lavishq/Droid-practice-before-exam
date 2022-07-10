@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">listviewcitis</string>
+    <string-array name="users">
+        <item>Hello</item>
+        <item>ello</item>
+        <item>llo</item>
+    </string-array>
+</resources>

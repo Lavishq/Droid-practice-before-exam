@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.menuapp.MainActivity">
+    <item
+        android:id="@+id/fybca"
+        android:orderInCategory="100"
+        android:title="FYBCA"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/sybca"
+        android:orderInCategory="101"
+        android:title="SYBCA" />
+    <item
+        android:id="@+id/tybca"
+        android:orderInCategory="102"
+        android:title="TYBCA" />
+</menu>
